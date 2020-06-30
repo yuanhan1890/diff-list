@@ -1,6 +1,6 @@
 {
   "name": "diff-list-myers",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "keywords": [],
   "main": "dist/diff-list-myers.umd.js",
