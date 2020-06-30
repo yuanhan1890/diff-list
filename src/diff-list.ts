@@ -19,7 +19,7 @@ export type DiffValue<T> = ({
   type: DiffType.created,
 });
 
-// meyers algorithm
+// myers algorithm
 export function diffList<T>(props: {
   before: T[],
   after: T[],
