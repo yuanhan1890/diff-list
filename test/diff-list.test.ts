@@ -1,4 +1,4 @@
-import { diffList, DiffType } from "../src/diff-list"
+import { diffList, DiffType } from "../src/diff-list-myers"
 
 
 describe("test", () => {

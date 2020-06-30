@@ -1,11 +1,11 @@
 {
-  "name": "diff-list",
+  "name": "diff-list-myers",
   "version": "0.0.0",
   "description": "",
   "keywords": [],
-  "main": "dist/diff-list.umd.js",
-  "module": "dist/diff-list.es5.js",
-  "typings": "dist/types/diff-list.d.ts",
+  "main": "dist/diff-list-myers.umd.js",
+  "module": "dist/diff-list-myers.es5.js",
+  "typings": "dist/types/diff-list-myers.d.ts",
   "files": [
     "dist"
   ],
